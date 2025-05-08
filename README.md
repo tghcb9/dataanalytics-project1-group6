@@ -1,5 +1,5 @@
-# project1-group6
-MSU Data Analytics Project 1, Group 6
+# dataanalytics-project1-group6
+Data Analytics Project 1, Group 6
 
 # Overview
 This project is about apartments
